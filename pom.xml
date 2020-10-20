@@ -3,12 +3,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <packaging>jar</packaging>
-    <groupId>com.lemonsaas</groupId>
-    <artifactId>lemontool-core</artifactId>
-    <version>3.3.2</version>
-    <name>LemonTool</name>
-    <description>LemonTool A set of tools for Java</description>
-    <url>https://gitee.com/ghostsf/LemonTool</url>
+    <groupId>com.ghostsf</groupId>
+    <artifactId>atool</artifactId>
+    <version>1.0.0</version>
+    <name>ATool</name>
+    <description>ATool A set of tools for Java</description>
+    <url>https://github.com/ghostsf/ATool</url>
 
     <properties>
         <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
@@ -28,16 +28,9 @@
     </dependencies>
 
     <issueManagement>
-        <system>Gitee Issue</system>
-        <url>https://gitee.com/ghostsf/LemonTool/issues</url>
+        <system>Git Issue</system>
+        <url>https://github.com/ghostsf/ATool/issues</url>
     </issueManagement>
-
-    <licenses>
-        <license>
-            <name>The Apache Software License, Version 2.0</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-    </licenses>
 
     <developers>
         <developer>
