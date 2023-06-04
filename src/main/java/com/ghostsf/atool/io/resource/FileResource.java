@@ -8,7 +8,7 @@ import com.ghostsf.atool.io.FileUtil;
 /**
  * 文件资源访问对象
  * 
- * @author looly
+ * @author ghostsf
  *
  */
 public class FileResource extends UrlResource{

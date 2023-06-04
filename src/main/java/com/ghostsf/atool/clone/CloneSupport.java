@@ -2,7 +2,7 @@ package com.ghostsf.atool.clone;
 
 /**
  * 克隆支持类，提供默认的克隆方法
- * @author Looly
+ * @author ghostsf
  *
  * @param <T> 继承类的类型
  */

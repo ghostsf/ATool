@@ -5,7 +5,7 @@ import java.math.BigInteger;
 
 /**
  * 基于分组的Get接口
- * @author Looly
+ * @author ghostsf
  *
  */
 public interface GroupedTypeGetter {

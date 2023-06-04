@@ -17,7 +17,7 @@ import com.ghostsf.atool.date.SystemClock;
  * 
  * 参考：http://www.cnblogs.com/relucent/p/4955340.html
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.1
  */
 public class Snowflake {

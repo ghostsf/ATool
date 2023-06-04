@@ -7,7 +7,7 @@ import org.junit.Test;
 
 /**
  * 身份证单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class IdcardUtilTest {

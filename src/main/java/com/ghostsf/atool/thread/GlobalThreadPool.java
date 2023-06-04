@@ -12,7 +12,7 @@ import com.ghostsf.atool.exceptions.UtilException;
 /**
  * 全局公共线程池
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class GlobalThreadPool {

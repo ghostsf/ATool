@@ -14,7 +14,7 @@ import com.ghostsf.atool.lang.SimpleCache;
 /**
  * {@link ClassLoader}工具类
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.9
  */
 public class ClassLoaderUtil {

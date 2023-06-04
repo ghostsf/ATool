@@ -8,7 +8,7 @@ import com.ghostsf.atool.convert.AbstractConverter;
 
 /**
  * 字符串转换器
- * @author Looly
+ * @author ghostsf
  *
  */
 public class URIConverter extends AbstractConverter<URI>{

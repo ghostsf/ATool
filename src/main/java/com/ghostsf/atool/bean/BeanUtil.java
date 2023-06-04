@@ -31,7 +31,7 @@ import com.ghostsf.atool.map.MapUtil;
  * 把一个拥有对属性进行set和get方法的类，我们就可以称之为JavaBean。
  * </p>
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.1.2
  */
 public class BeanUtil {

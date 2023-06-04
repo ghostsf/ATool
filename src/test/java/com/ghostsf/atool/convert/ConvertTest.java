@@ -9,7 +9,7 @@ import org.junit.Test;
 /**
  * 类型转换工具单元测试
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ConvertTest {

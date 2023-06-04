@@ -7,7 +7,7 @@ import com.ghostsf.atool.convert.AbstractConverter;
 /**
  * 货币{@link Currency} 转换器
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.8
  */
 public class CurrencyConverter extends AbstractConverter<Currency> {

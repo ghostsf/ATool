@@ -23,7 +23,7 @@ import com.ghostsf.atool.io.IoUtil;
 /**
  * 压缩工具类
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ZipUtil {

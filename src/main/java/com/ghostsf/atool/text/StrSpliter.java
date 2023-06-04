@@ -11,7 +11,7 @@ import com.ghostsf.atool.lang.PatternPool;
 
 /**
  * 字符串切分器
- * @author Looly
+ * @author ghostsf
  *
  */
 public class StrSpliter {

@@ -25,7 +25,7 @@ import com.ghostsf.atool.util.StrUtil;
  * <li><code>java.math.BigInteger</code></li>
  * </ul>
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class NumberConverter extends AbstractConverter<Number> {

@@ -8,7 +8,7 @@ import org.junit.Test;
 
 /**
  * {@link StrSpliter} 单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class StrSpliterTest {

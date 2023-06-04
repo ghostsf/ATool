@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 /**
  * {@link Enumeration}对象转{@link Iterator}对象
- * @author Looly
+ * @author ghostsf
  *
  * @param <E> 元素类型
  * @since 3.0.8

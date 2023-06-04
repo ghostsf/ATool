@@ -5,7 +5,7 @@ import com.ghostsf.atool.util.StrUtil;
 
 /**
  * 字符串格式化工具
- * @author Looly
+ * @author ghostsf
  *
  */
 public class StrFormatter {

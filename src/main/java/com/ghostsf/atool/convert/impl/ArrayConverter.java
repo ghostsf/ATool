@@ -14,7 +14,7 @@ import com.ghostsf.atool.util.StrUtil;
 /**
  * 数组转换器，包括原始类型数组
  * 
- * @author Looly
+ * @author ghostsf
  */
 public class ArrayConverter extends AbstractConverter<Object> {
 

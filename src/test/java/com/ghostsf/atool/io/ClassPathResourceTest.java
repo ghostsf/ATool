@@ -10,7 +10,7 @@ import org.junit.Test;
 
 /**
  * ClassPath资源读取测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ClassPathResourceTest {

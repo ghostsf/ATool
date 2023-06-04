@@ -12,7 +12,7 @@ import com.ghostsf.atool.exceptions.UtilException;
 /**
  * Bean的值提供者
  * 
- * @author looly
+ * @author ghostsf
  *
  */
 public class BeanValueProvider implements ValueProvider<String> {

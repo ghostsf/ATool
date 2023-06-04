@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  * 范围生成器。根据给定的初始值、结束值和步进生成一个步进列表生成器<br>
  * 此类使用{@link ReentrantReadWriteLock}保证线程安全
  * 
- * @author Looly
+ * @author ghostsf
  *
  * @param <T> 生成范围对象的类型
  */
@@ -162,7 +162,7 @@ public class Range<T> implements Iterable<T>, Iterator<T>{
 	 * 2、步进大小，通过实现此接口，在实现类中定义一个对象属性，可灵活定义步进大小
 	 * 3、限制range个数，通过实现此接口，在实现类中定义一个对象属性，可灵活定义limit，限制range个数
 	 * </pre>
-	 * @author Looly
+	 * @author ghostsf
 	 *
 	 * @param <T> 需要增加步进的对象
 	 */

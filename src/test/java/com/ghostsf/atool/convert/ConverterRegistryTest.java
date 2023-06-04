@@ -5,7 +5,7 @@ import org.junit.Test;
 
 /**
  * ConverterRegistry 单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ConverterRegistryTest {

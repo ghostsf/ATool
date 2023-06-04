@@ -17,7 +17,7 @@ import com.ghostsf.atool.util.StrUtil;
  * 		<li><code>boolean</code></li>
  * </ul>
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class PrimitiveConverter extends AbstractConverter<Object> {

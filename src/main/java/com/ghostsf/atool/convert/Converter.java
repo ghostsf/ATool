@@ -2,7 +2,7 @@ package com.ghostsf.atool.convert;
 
 /**
  * 转换器接口，实现类型转换
- * @author Looly
+ * @author ghostsf
  *
  */
 public interface Converter<T> {

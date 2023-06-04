@@ -21,7 +21,7 @@ import com.ghostsf.atool.util.StrUtil;
  * </pre>
  * 
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.7
  */
 public class BeanResolver {

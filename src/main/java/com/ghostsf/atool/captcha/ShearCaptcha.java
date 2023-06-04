@@ -11,7 +11,7 @@ import com.ghostsf.atool.util.RandomUtil;
 /**
  * 扭曲干扰验证码
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.2.3
  *
  */

@@ -5,7 +5,7 @@ import org.junit.Test;
 
 /**
  * 直线干扰验证码单元测试
- * @author looly
+ * @author ghostsf
  *
  */
 public class CaptchaTest {

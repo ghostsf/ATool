@@ -6,7 +6,7 @@ import com.ghostsf.atool.convert.AbstractConverter;
 
 /**
  * TimeZone转换器
- * @author Looly
+ * @author ghostsf
  *
  */
 public class TimeZoneConverter extends AbstractConverter<TimeZone>{

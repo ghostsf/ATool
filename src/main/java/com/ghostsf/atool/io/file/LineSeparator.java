@@ -12,7 +12,7 @@ package com.ghostsf.atool.io.file;
  * @see #MAC
  * @see #LINUX
  * @see #WINDOWS
- * @author Looly
+ * @author ghostsf
  * @since 3.1.0
  */
 public enum LineSeparator {

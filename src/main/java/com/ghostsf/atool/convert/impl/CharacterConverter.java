@@ -5,7 +5,7 @@ import com.ghostsf.atool.util.StrUtil;
 
 /**
  * 字符转换器
- * @author Looly
+ * @author ghostsf
  *
  */
 public class CharacterConverter extends AbstractConverter<Character>{

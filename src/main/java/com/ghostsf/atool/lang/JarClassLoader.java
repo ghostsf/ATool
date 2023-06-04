@@ -18,7 +18,7 @@ import com.ghostsf.atool.io.IoUtil;
 /**
  * 外部Jar的类加载器
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class JarClassLoader extends URLClassLoader {

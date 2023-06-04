@@ -13,7 +13,7 @@ import com.ghostsf.atool.util.ReflectUtil;
  * 动态Bean，通过反射对Bean的相关方法做操作<br>
  * 支持Map和普通Bean
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.7
  */
 public class DynaBean extends CloneSupport<DynaBean> implements Serializable{

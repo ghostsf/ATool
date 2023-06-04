@@ -2,7 +2,7 @@ package com.ghostsf.atool.lang;
 
 /**
  * 过滤器接口
- * @author Looly
+ * @author ghostsf
  *
  */
 public interface Filter<T> {

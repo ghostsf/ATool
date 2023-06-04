@@ -10,7 +10,7 @@ import org.junit.Test;
 /**
  * 反射工具类单元测试
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ReflectUtilTest {

@@ -2,7 +2,7 @@ package com.ghostsf.atool.lang;
 
 /**
  * 匹配接口
- * @author Looly
+ * @author ghostsf
  *
  * @param <T> 匹配的对象类型
  */

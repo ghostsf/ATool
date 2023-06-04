@@ -13,7 +13,7 @@ import com.ghostsf.atool.util.TypeUtil;
 /**
  * {@link Reference}转换器
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.8
  */
 @SuppressWarnings("rawtypes")

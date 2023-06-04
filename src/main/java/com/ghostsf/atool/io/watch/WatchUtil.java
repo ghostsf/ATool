@@ -13,7 +13,7 @@ import com.ghostsf.atool.util.URLUtil;
  * 监听工具类<br>
  * 主要负责文件监听器的快捷创建
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.1.0
  */
 public class WatchUtil {

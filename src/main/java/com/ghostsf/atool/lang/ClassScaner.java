@@ -19,7 +19,7 @@ import com.ghostsf.atool.io.IoUtil;
 /**
  * 类扫描器
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public final class ClassScaner {

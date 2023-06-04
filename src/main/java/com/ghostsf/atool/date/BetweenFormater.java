@@ -2,7 +2,7 @@ package com.ghostsf.atool.date;
 
 /**
  * 时长格式化器
- * @author Looly
+ * @author ghostsf
  *
  */
 public class BetweenFormater {
@@ -113,7 +113,7 @@ public class BetweenFormater {
 	
 	/**
 	 * 格式化等级枚举<br>
-	 * @author Looly
+	 * @author ghostsf
 	 */
 	public static enum Level {
 

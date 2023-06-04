@@ -14,7 +14,7 @@ import com.ghostsf.atool.util.TypeUtil;
 /**
  * {@link Map} 转换器
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.8
  */
 public class MapConverter extends AbstractConverter<Map<?, ?>> {

@@ -8,7 +8,7 @@ import org.junit.Test;
 /**
  * {@link NumberUtil} 单元测试类
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class NumberUtilTest {

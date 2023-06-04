@@ -6,7 +6,7 @@ import org.junit.Test;
 
 /**
  * 文件读取测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class FileReaderTest {

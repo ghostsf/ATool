@@ -9,7 +9,7 @@ import com.ghostsf.atool.map.MapUtil;
 /**
  * 枚举工具类
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.3.0
  */
 public class EnumUtil {

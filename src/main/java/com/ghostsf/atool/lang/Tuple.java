@@ -11,7 +11,7 @@ import com.ghostsf.atool.collection.ArrayIterator;
  * 不可变数组类型，用于多值返回<br>
  * 多值可以支持每个元素值类型不同
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class Tuple extends CloneSupport<Tuple> implements Iterable<Object>, Serializable{

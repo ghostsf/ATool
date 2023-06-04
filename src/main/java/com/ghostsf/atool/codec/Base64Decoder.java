@@ -9,7 +9,7 @@ import com.ghostsf.atool.util.StrUtil;
 /**
  * Base64解码实现
  * 
- * @author looly
+ * @author ghostsf
  *
  */
 public class Base64Decoder {
@@ -173,7 +173,7 @@ public class Base64Decoder {
 	/**
 	 * int包装，使之可变
 	 * 
-	 * @author looly
+	 * @author ghostsf
 	 *
 	 */
 	private static class IntWrapper {

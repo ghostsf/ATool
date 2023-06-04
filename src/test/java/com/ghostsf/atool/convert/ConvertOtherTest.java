@@ -8,7 +8,7 @@ import org.junit.Test;
 
 /**
  * 其它转换
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ConvertOtherTest {

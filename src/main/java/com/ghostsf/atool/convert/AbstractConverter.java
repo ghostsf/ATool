@@ -8,7 +8,7 @@ import com.ghostsf.atool.util.StrUtil;
  * 抽象转换器，提供通用的转换逻辑，同时通过convertInternal实现对应类型的专属逻辑<br>
  * 转换器不会抛出转换异常，转换失败时会返回{@code null}
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public abstract class AbstractConverter<T> implements Converter<T> {

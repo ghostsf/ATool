@@ -24,7 +24,7 @@ import com.ghostsf.atool.exceptions.UtilException;
 /**
  * Map相关工具类
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.1.1
  */
 public class MapUtil {

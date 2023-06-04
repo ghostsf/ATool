@@ -10,7 +10,7 @@ import com.ghostsf.atool.util.RandomUtil;
 /**
  * 使用干扰线方式生成的图形验证码
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.1.2
  */
 public class LineCaptcha extends AbstractCaptcha {

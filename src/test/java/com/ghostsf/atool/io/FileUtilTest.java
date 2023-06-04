@@ -15,7 +15,7 @@ import org.junit.Test;
 /**
  * {@link FileUtil} 单元测试类
  * 
- * @author Looly
+ * @author ghostsf
  */
 public class FileUtilTest {
 	

@@ -7,7 +7,7 @@ import com.ghostsf.atool.convert.AbstractConverter;
 /**
  * {@link AtomicBoolean}转换器
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.8
  */
 public class AtomicBooleanConverter extends AbstractConverter<AtomicBoolean> {

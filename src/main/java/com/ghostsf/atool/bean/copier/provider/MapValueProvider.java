@@ -9,7 +9,7 @@ import com.ghostsf.atool.map.CaseInsensitiveMap;
 /**
  * Map值提供者
  * 
- * @author looly
+ * @author ghostsf
  *
  */
 public class MapValueProvider implements ValueProvider<String> {

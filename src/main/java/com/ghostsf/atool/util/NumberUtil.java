@@ -33,7 +33,7 @@ import com.ghostsf.atool.lang.Assert;
  * <li>https://github.com/venusdrogon/feilong-core/wiki/one-jdk7-bug-thinking</li>
  * </ul>
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class NumberUtil {

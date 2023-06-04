@@ -4,7 +4,7 @@ package com.ghostsf.atool.util;
  * Hash算法大全<br>
  * 推荐使用FNV1算法
  * 
- * @author Goodzzp,Looly
+ * @author Goodzzp,ghostsf
  */
 public class HashUtil {
 	

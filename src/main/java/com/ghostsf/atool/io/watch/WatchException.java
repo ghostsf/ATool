@@ -5,7 +5,7 @@ import com.ghostsf.atool.exceptions.ExceptionUtil;
 
 /**
  * 监听异常
- * @author Looly
+ * @author ghostsf
  *
  */
 public class WatchException extends RuntimeException {

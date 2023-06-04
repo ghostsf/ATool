@@ -16,7 +16,7 @@ import com.ghostsf.atool.lang.SimpleCache;
 /**
  * 反射工具类
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.9
  */
 public class ReflectUtil {

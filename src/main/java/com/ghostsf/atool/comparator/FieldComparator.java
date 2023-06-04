@@ -11,7 +11,7 @@ import com.ghostsf.atool.util.ObjectUtil;
  * Bean字段排序器<br>
  * 参阅feilong-core中的PropertyComparator
  * 
- * @author Looly
+ * @author ghostsf
  *
  * @param <T> 被比较的Bean
  */

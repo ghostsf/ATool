@@ -13,7 +13,7 @@ import org.junit.Test;
 /**
  * 时间工具单元测试
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class DateUtilTest {

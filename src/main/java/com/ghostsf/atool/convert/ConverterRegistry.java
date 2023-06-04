@@ -55,7 +55,7 @@ import com.ghostsf.atool.util.TypeUtil;
  * 在此类中，存放着默认转换器和自定义转换器，默认转换器是Hutool中预定义的一些转换器，自定义转换器存放用户自定的转换器。
  * </p>
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ConverterRegistry {

@@ -15,7 +15,7 @@ import com.ghostsf.atool.io.IORuntimeException;
 
 /**
  * ClassPath资源工具类
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ResourceUtil {

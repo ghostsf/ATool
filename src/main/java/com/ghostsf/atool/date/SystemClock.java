@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
  * 后台定时更新时钟，JVM退出时，线程自动回收
  * 
  * see： http://git.oschina.net/yu120/sequence
- * @author lry,looly
+ * @author lry,ghostsf
  */
 public class SystemClock {
 	
@@ -63,7 +63,7 @@ public class SystemClock {
 	//------------------------------------------------------------------------ static
 	/**
 	 * 单例
-	 * @author Looly
+	 * @author ghostsf
 	 *
 	 */
 	private static class InstanceHolder {

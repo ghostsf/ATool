@@ -8,7 +8,7 @@ import com.ghostsf.atool.exceptions.ValidateException;
 
 /**
  * 验证器单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ValidatorTest {

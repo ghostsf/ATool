@@ -15,7 +15,7 @@ import com.ghostsf.atool.exceptions.UtilException;
 /**
  * 系统剪贴板工具类
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.2.0
  */
 public class ClipboardUtil {
@@ -117,7 +117,7 @@ public class ClipboardUtil {
 	 * 图片转换器，用于将图片对象转换为剪贴板支持的对象<br>
 	 * 此对象也用于将图像文件和{@link DataFlavor#imageFlavor} 元信息对应
 	 * 
-	 * @author looly
+	 * @author ghostsf
 	 * @since 3.2.0
 	 */
 	public static class ImageSelection implements Transferable {

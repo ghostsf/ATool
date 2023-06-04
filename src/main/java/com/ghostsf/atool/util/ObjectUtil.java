@@ -18,7 +18,7 @@ import com.ghostsf.atool.io.IoUtil;
 /**
  * 一些通用的函数
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ObjectUtil {

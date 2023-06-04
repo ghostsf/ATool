@@ -17,7 +17,7 @@ import com.ghostsf.atool.map.CaseInsensitiveMap;
 /**
  * Bean信息描述做为BeanInfo替代方案，此对象持有JavaBean中的setters和getters等相关信息描述
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.1.2
  */
 public class BeanDesc {
@@ -154,7 +154,7 @@ public class BeanDesc {
 	/**
 	 * 属性描述
 	 * 
-	 * @author looly
+	 * @author ghostsf
 	 *
 	 */
 	public static class PropDesc {

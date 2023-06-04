@@ -16,7 +16,7 @@ import com.ghostsf.atool.lang.Filter;
 /**
  * 数组工具类
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ArrayUtil {

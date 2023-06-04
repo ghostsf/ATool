@@ -14,7 +14,7 @@ import com.ghostsf.atool.util.StrUtil;
 /**
  * 异常工具类
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public final class ExceptionUtil {

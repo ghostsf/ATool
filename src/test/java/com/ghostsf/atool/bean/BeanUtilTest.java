@@ -12,7 +12,7 @@ import org.junit.Test;
 
 /**
  * Bean工具单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class BeanUtilTest {

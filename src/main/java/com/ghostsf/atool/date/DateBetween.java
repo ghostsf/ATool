@@ -6,7 +6,7 @@ import java.util.Date;
 /**
  * 日期间隔
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class DateBetween {

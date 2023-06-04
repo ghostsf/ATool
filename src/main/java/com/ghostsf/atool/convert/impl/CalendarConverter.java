@@ -10,7 +10,7 @@ import com.ghostsf.atool.util.StrUtil;
 /**
  * 日期转换器
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class CalendarConverter extends AbstractConverter<Calendar> {

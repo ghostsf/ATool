@@ -4,7 +4,7 @@ import com.ghostsf.atool.convert.AbstractConverter;
 
 /**
  * 波尔转换器
- * @author Looly
+ * @author ghostsf
  *
  */
 public class BooleanConverter extends AbstractConverter<Boolean>{

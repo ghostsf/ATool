@@ -2,7 +2,7 @@ package com.ghostsf.atool.date;
 
 /**
  * 日期时间单位，每个单位都是以毫秒为基数
- * @author Looly
+ * @author ghostsf
  *
  */
 public enum DateUnit {

@@ -11,7 +11,7 @@ import com.ghostsf.atool.util.TypeUtil;
 /**
  * 各种集合类转换器
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.8
  */
 public class CollectionConverter implements Converter<Collection<?>> {

@@ -7,7 +7,7 @@ import com.ghostsf.atool.util.CharsetUtil;
 
 /**
  * 编码对象转换器
- * @author Looly
+ * @author ghostsf
  *
  */
 public class CharsetConverter extends AbstractConverter<Charset> {

@@ -18,7 +18,7 @@ import java.util.List;
  * 
  *
  * @param <E> 元素类型
- * @author Looly
+ * @author ghostsf
  * @since 3.0.7
  */
 public class CopiedIterator<E> implements Iterator<E> {

@@ -21,7 +21,7 @@ import com.ghostsf.atool.io.LineHandler;
 /**
  * 文件读取器
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class FileReader extends FileWrapper {

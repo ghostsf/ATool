@@ -11,7 +11,7 @@ import com.ghostsf.atool.util.StrUtil;
 /**
  * 日期转换器
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class DateConverter extends AbstractConverter<Date> {

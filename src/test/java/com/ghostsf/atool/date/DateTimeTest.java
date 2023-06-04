@@ -5,7 +5,7 @@ import org.junit.Test;
 
 /**
  * DateTime单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class DateTimeTest {

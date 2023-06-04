@@ -2,7 +2,7 @@ package com.ghostsf.atool.clone;
 
 /**
  * 克隆支持接口
- * @author Looly
+ * @author ghostsf
  *
  * @param <T> 实现克隆接口的类型
  */

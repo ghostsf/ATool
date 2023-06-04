@@ -9,7 +9,7 @@ import com.ghostsf.atool.getter.OptNullBasicTypeFromObjectGetter;
 /**
  * Map代理，提供各种getXXX方法，并提供默认值支持
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.2.0
  */
 public class MapProxy extends OptNullBasicTypeFromObjectGetter<Object> implements Map<Object, Object> {

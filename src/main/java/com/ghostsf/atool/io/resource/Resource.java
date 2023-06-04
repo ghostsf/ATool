@@ -12,7 +12,7 @@ import com.ghostsf.atool.io.IORuntimeException;
  * 资源接口定义<br>
  * 资源可以是文件、URL、ClassPath中的文件亦或者jar包中的文件
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.2.1
  */
 public interface Resource {

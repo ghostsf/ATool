@@ -15,7 +15,7 @@ import java.lang.ref.WeakReference;
  * 3. {@link PhantomReference}
  * </pre>
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.1.2
  */
 public class ReferenceUtil {
@@ -57,7 +57,7 @@ public class ReferenceUtil {
 	/**
 	 * 引用类型
 	 * 
-	 * @author looly
+	 * @author ghostsf
 	 *
 	 */
 	public static enum ReferenceType {

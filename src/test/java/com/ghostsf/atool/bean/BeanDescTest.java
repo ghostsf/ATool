@@ -6,7 +6,7 @@ import org.junit.Test;
 /**
  * {@link BeanDesc} 单元测试类
  * 
- * @author looly
+ * @author ghostsf
  *
  */
 public class BeanDescTest {

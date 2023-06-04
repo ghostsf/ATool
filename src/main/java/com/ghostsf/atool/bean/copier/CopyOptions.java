@@ -9,7 +9,7 @@ import java.util.Map;
  * 2、是否忽略空值，当源对象的值为null时，true: 忽略而不注入此值，false: 注入null<br>
  * 3、忽略的属性列表，设置一个属性列表，不拷贝这些属性值<br>
  * 
- * @author Looly
+ * @author ghostsf
  */
 public class CopyOptions {
 	/** 限制的类或接口，必须为目标对象的实现接口或父类，用于限制拷贝的属性，例如一个类我只想复制其父类的一些属性，就可以将editable设置为父类 */

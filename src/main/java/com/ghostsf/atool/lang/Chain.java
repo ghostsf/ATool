@@ -2,7 +2,7 @@ package com.ghostsf.atool.lang;
 
 /**
  * 责任链接口
- * @author Looly
+ * @author ghostsf
  *
  * @param <E> 元素类型
  * @param <T> 目标类类型，用于返回this对象

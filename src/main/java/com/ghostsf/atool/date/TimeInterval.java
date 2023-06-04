@@ -4,7 +4,7 @@ package com.ghostsf.atool.date;
  * 计时器<br>
  * 计算某个过程花费的时间，精确到毫秒
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class TimeInterval {

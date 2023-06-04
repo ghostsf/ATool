@@ -6,7 +6,7 @@ import java.util.Comparator;
 /**
  * 反转比较器
  * 
- * @author Looly
+ * @author ghostsf
  *
  * @param <E> 被比较对象类型
  */

@@ -5,7 +5,7 @@ import org.junit.Test;
 
 /**
  * 控制台单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ConsoleTest {

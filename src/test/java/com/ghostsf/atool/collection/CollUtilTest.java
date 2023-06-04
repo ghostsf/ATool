@@ -16,7 +16,7 @@ import org.junit.Test;
 
 /**
  * 集合工具类单元测试
- * @author looly
+ * @author ghostsf
  *
  */
 public class CollUtilTest {

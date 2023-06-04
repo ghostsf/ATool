@@ -7,7 +7,7 @@ import com.ghostsf.atool.util.ReUtil;
 /**
  * 常用正则表达式集合
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class PatternPool {
@@ -104,7 +104,7 @@ public class PatternPool {
 	/**
 	 * 正则表达式和正则标识位的包装
 	 * 
-	 * @author Looly
+	 * @author ghostsf
 	 *
 	 */
 	private static class RegexWithFlag {

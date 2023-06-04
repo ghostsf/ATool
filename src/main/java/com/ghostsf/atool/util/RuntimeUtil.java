@@ -12,7 +12,7 @@ import com.ghostsf.atool.io.IoUtil;
 /**
  * 系统运行时工具类，用于执行系统命令的工具
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.1.1
  */
 public class RuntimeUtil {

@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 通过{@link ConcurrentHashMap}实现的线程安全HashSet
  * 
- * @author Looly
+ * @author ghostsf
  *
  * @param <E> 元素类型
  * @since 3.1.0

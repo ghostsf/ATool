@@ -8,7 +8,7 @@ package com.ghostsf.atool.date;
  * @see #AUTUMN
  * @see #WINTER
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public enum Season {

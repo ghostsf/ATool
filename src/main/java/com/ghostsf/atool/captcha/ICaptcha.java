@@ -6,7 +6,7 @@ import java.io.Serializable;
 /**
  * 验证码接口，提供验证码对象接口定义
  * 
- * @author looly
+ * @author ghostsf
  *
  */
 public interface ICaptcha extends Serializable{

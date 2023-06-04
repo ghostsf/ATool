@@ -5,7 +5,7 @@ import org.junit.Test;
 
 /**
  * 分页单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class PageUtilTest {

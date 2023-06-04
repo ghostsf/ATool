@@ -3,7 +3,7 @@ package com.ghostsf.atool.captcha;
 /**
  * 图形验证码工具
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.1.2
  */
 public class CaptchaUtil {

@@ -13,7 +13,7 @@ import com.ghostsf.atool.lang.Validator;
  * 身份证相关工具类<br>
  * see https://www.oschina.net/code/snippet_1611_2881
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.4
  */
 public class IdcardUtil {

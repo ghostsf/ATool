@@ -11,7 +11,7 @@ import com.ghostsf.atool.util.StrUtil;
  * 3. 转金额形式，比如：壹佰贰拾壹整
  * </pre>
  * 
- * @author fanqun,looly
+ * @author fanqun,ghostsf
  **/
 public class NumberChineseFormater {
 

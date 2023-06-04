@@ -9,7 +9,7 @@ import org.junit.Test;
 
 /**
  * 文件类型判断单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class FileTypeUtilTest {

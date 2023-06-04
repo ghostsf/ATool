@@ -6,7 +6,7 @@ import java.util.NoSuchElementException;
 
 /**
  * 数组Iterator对象
- * @author Looly
+ * @author ghostsf
  *
  * @param <E> 元素类型
  * @since 3.0.8

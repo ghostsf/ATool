@@ -10,7 +10,7 @@ import com.ghostsf.atool.io.FileUtil;
 /**
  * 文件包装器，扩展文件对象
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class FileWrapper {

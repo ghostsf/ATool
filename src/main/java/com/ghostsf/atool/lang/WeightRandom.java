@@ -24,7 +24,7 @@ import com.ghostsf.atool.map.MapUtil;
  * <p>
  * 
  * @param <T> 权重随机获取的对象类型
- * @author looly
+ * @author ghostsf
  * @since 3.3.0
  */
 public class WeightRandom<T> implements Serializable {
@@ -138,7 +138,7 @@ public class WeightRandom<T> implements Serializable {
 	/**
 	 * 带有权重的对象包装
 	 * 
-	 * @author looly
+	 * @author ghostsf
 	 *
 	 * @param <T> 对象类型
 	 */

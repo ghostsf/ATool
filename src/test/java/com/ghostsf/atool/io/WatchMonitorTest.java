@@ -12,7 +12,7 @@ import com.ghostsf.atool.lang.Console;
 /**
  * 文件监听单元测试
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class WatchMonitorTest {

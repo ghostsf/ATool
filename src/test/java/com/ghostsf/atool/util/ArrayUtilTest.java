@@ -10,7 +10,7 @@ import org.junit.Test;
 /**
  * {@link ArrayUtil} 数组工具单元测试
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ArrayUtilTest {

@@ -8,7 +8,7 @@ import org.junit.Test;
 
 /**
  * 异常工具单元测试
- * @author looly
+ * @author ghostsf
  *
  */
 public class ExceptionUtilTest {

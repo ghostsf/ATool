@@ -10,7 +10,7 @@ package com.ghostsf.atool.lang;
  * </pre>
  * 
  * @param <T> 被编辑对象类型
- * @author Looly
+ * @author ghostsf
  */
 public interface Editor<T> {
 	/**

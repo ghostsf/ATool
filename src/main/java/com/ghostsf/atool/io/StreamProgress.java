@@ -2,7 +2,7 @@ package com.ghostsf.atool.io;
 
 /**
  * Stream进度条
- * @author Looly
+ * @author ghostsf
  *
  */
 public interface StreamProgress {

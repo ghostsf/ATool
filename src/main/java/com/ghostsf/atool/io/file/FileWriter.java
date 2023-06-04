@@ -19,7 +19,7 @@ import com.ghostsf.atool.io.IoUtil;
 
 /**
  * 文件写入器
- * @author Looly
+ * @author ghostsf
  *
  */
 public class FileWriter extends FileWrapper{

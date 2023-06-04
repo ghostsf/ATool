@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Base64单元测试
  * 
- * @author looly
+ * @author ghostsf
  *
  */
 public class Base64Test {

@@ -9,7 +9,7 @@ import org.junit.Test;
 
 /**
  * {@link Range} 单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class RangeTest {

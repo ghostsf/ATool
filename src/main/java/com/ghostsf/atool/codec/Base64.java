@@ -7,7 +7,7 @@ import java.nio.charset.Charset;
  * base64编码是用64（2的6次方）个ASCII字符来表示256（2的8次方）个ASCII字符，<br>
  * 也就是三位二进制数组经过编码后变为四位的ASCII字符显示，长度比原来增加1/3。
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class Base64 {

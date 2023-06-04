@@ -8,7 +8,7 @@ import com.ghostsf.atool.util.StrUtil;
 /**
  * Base64编码
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.2.0
  */
 public class Base64Encoder {

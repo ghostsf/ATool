@@ -15,7 +15,7 @@ import com.ghostsf.atool.exceptions.ValidateException;
 /**
  * 字段验证器
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public final class Validator {

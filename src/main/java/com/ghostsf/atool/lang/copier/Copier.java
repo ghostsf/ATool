@@ -2,7 +2,7 @@ package com.ghostsf.atool.lang.copier;
 
 /**
  * 拷贝接口
- * @author Looly
+ * @author ghostsf
  *
  * @param <T> 拷贝目标类型
  */

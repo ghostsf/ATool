@@ -8,7 +8,7 @@ import org.junit.Test;
 
 /**
  * 字符串工具类单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class StrUtilTest {

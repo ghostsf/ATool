@@ -6,7 +6,7 @@ import org.junit.Test;
 
 /**
  * 命令行单元测试
- * @author looly
+ * @author ghostsf
  *
  */
 public class RuntimeUtilTest {

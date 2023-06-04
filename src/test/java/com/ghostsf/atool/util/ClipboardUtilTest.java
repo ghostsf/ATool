@@ -5,7 +5,7 @@ import org.junit.Test;
 
 /**
  * 剪贴板工具类单元测试
- * @author looly
+ * @author ghostsf
  *
  */
 public class ClipboardUtilTest {

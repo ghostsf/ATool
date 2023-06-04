@@ -6,7 +6,7 @@ import com.ghostsf.atool.util.ClassUtil;
 /**
  * 类转换器<br>
  * 将类名转换为类
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ClassConverter extends AbstractConverter<Class<?>>{

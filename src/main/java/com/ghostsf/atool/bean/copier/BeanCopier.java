@@ -19,7 +19,7 @@ import com.ghostsf.atool.map.MapUtil;
 
 /**
  * Bean拷贝
- * @author looly
+ * @author ghostsf
  *
  * @param <T> 目标对象类型
  * @since 3.2.3

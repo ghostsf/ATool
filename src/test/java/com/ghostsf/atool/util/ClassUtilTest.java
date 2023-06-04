@@ -9,7 +9,7 @@ import org.junit.Test;
 /**
  * {@link ClassUtil} 单元测试
  * 
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ClassUtilTest {

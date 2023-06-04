@@ -2,7 +2,7 @@ package com.ghostsf.atool.io;
 
 /**
  * 行处理器
- * @author Looly
+ * @author ghostsf
  *
  */
 public interface LineHandler {

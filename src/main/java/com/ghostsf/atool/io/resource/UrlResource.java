@@ -14,7 +14,7 @@ import com.ghostsf.atool.io.IoUtil;
 
 /**
  * URL资源访问类
- * @author Looly
+ * @author ghostsf
  *
  */
 public class UrlResource implements Resource{

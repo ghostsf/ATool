@@ -8,7 +8,7 @@ import org.junit.Test;
 
 /**
  * NetUtil单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class NetUtilTest {

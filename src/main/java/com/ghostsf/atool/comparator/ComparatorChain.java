@@ -14,7 +14,7 @@ import com.ghostsf.atool.lang.Chain;
  * 按照比较器链的顺序分别比较，如果比较出相等则转向下一个比较器，否则直接返回<br>
  * 此类copy from Apache-commons-collections
  * 
- * @author looly
+ * @author ghostsf
  * @since 3.0.7
  */
 public class ComparatorChain<E> implements Chain<Comparator<E>, ComparatorChain<E>>, Comparator<E>, Serializable {

@@ -11,7 +11,7 @@ import com.ghostsf.atool.util.ArrayUtil;
 /**
  * {@link Iterable} 和 {@link Iterator} 相关工具类
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.1.0
  */
 public class IterUtil {

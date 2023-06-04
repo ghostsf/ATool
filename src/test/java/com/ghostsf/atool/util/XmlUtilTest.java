@@ -7,7 +7,7 @@ import org.w3c.dom.Document;
 
 /**
  * {@link XmlUtil} 工具类
- * @author Looly
+ * @author ghostsf
  *
  */
 public class XmlUtilTest {

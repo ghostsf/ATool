@@ -6,7 +6,7 @@ import com.ghostsf.atool.convert.AbstractConverter;
  * 枚举转换器
  * 
  * @param <E> 枚举类类型
- * @author Looly
+ * @author ghostsf
  * @since 3.2.0
  */
 public class EnumConverter<E extends Enum<E>> extends AbstractConverter<E> {

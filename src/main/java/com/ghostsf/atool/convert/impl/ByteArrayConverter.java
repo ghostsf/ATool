@@ -6,7 +6,7 @@ import com.ghostsf.atool.util.ArrayUtil;
 
 /**
  * byte 类型数组转换器
- * @author Looly
+ * @author ghostsf
  *
  */
 public class ByteArrayConverter extends AbstractConverter<byte[]>{

@@ -5,7 +5,7 @@ import com.ghostsf.atool.exceptions.UtilException;
 /**
  * 调用者。可以通过此类的方法获取调用者、多级调用者以及判断是否被调用
  * 
- * @author Looly
+ * @author ghostsf
  * @since 3.0.9
  */
 public class Caller {
@@ -83,7 +83,7 @@ public class Caller {
 	 * 调用者接口<br>
 	 * 可以通过此接口的实现类方法获取调用者、多级调用者以及判断是否被调用
 	 * 
-	 * @author Looly
+	 * @author ghostsf
 	 *
 	 */
 	private static interface ICaller {
@@ -128,7 +128,7 @@ public class Caller {
 	/**
 	 * {@link SecurityManager} 方式获取调用者
 	 * 
-	 * @author Looly
+	 * @author ghostsf
 	 */
 	private static class SecurityManagerCaller extends SecurityManager implements ICaller {
 		private static final int OFFSET = 1;
@@ -167,7 +167,7 @@ public class Caller {
 	/**
 	 * 通过sun.reflect.Reflection 获取调用者
 	 * 
-	 * @author Looly
+	 * @author ghostsf
 	 *
 	 */
 	@SuppressWarnings({ "deprecation", "restriction" })
@@ -193,7 +193,7 @@ public class Caller {
 	/**
 	 * 通过StackTrace方式获取调用者。此方式效率最低，不推荐使用
 	 * 
-	 * @author Looly
+	 * @author ghostsf
 	 */
 	private static class StackTraceCaller implements ICaller {
 		private static final int OFFSET = 2;

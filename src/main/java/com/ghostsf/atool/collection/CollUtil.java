@@ -1899,7 +1899,7 @@ public class CollUtil {
 	/**
 	 * 针对一个参数做相应的操作
 	 * 
-	 * @author Looly
+	 * @author ghostsf
 	 *
 	 * @param <T> 处理参数类型
 	 */
@@ -1916,7 +1916,7 @@ public class CollUtil {
 	/**
 	 * 针对两个参数做相应的操作，例如Map中的KEY和VALUE
 	 * 
-	 * @author Looly
+	 * @author ghostsf
 	 *
 	 * @param <K> KEY类型
 	 * @param <V> VALUE类型
@@ -1934,7 +1934,7 @@ public class CollUtil {
 	
 	/**
 	 * Hash计算接口
-	 * @author looly
+	 * @author ghostsf
 	 *
 	 * @param <T> 被计算hash的对象类型
 	 * @since 3.2.2

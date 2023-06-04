@@ -6,7 +6,7 @@ import org.junit.Test;
 
 /**
  * 文件拷贝单元测试
- * @author Looly
+ * @author ghostsf
  *
  */
 public class FileCopierTest {
